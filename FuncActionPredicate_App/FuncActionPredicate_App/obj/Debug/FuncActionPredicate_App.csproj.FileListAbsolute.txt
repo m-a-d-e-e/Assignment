@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug17 - Assignment\FuncActionPredicate_App\FuncActionPredicate_App\bin\Debug\FuncActionPredicate_App.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug17 - Assignment\FuncActionPredicate_App\FuncActionPredicate_App\bin\Debug\FuncActionPredicate_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug17 - Assignment\FuncActionPredicate_App\FuncActionPredicate_App\bin\Debug\FuncActionPredicate_App.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug17 - Assignment\FuncActionPredicate_App\FuncActionPredicate_App\obj\Debug\FuncActionPredicate_App.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug17 - Assignment\FuncActionPredicate_App\FuncActionPredicate_App\obj\Debug\FuncActionPredicate_App.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug17 - Assignment\FuncActionPredicate_App\FuncActionPredicate_App\obj\Debug\FuncActionPredicate_App.pdb
