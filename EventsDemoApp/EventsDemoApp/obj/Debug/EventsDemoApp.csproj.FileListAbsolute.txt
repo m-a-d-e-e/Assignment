@@ -1,0 +1,6 @@
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug18 - Assignment\EventsDemoApp\EventsDemoApp\bin\Debug\EventsDemoApp.exe.config
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug18 - Assignment\EventsDemoApp\EventsDemoApp\bin\Debug\EventsDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug18 - Assignment\EventsDemoApp\EventsDemoApp\bin\Debug\EventsDemoApp.pdb
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug18 - Assignment\EventsDemoApp\EventsDemoApp\obj\Debug\EventsDemoApp.csprojAssemblyReference.cache
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug18 - Assignment\EventsDemoApp\EventsDemoApp\obj\Debug\EventsDemoApp.exe
+C:\Users\Madeeha.Shaikh\source\repos\Training (Bhavana maam)\Aug18 - Assignment\EventsDemoApp\EventsDemoApp\obj\Debug\EventsDemoApp.pdb
